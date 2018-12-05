@@ -37,3 +37,14 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 }
+
+//测试配置
+plugin_config {
+    name = "asfas"
+    isDebug = true
+    data = [
+            "id"  : "2018",
+            "name": "asm plugin"
+    ]
+
+}
