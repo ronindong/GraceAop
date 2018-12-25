@@ -1,1 +1,1 @@
-include ':app', ':grace-plugin-lib'
+include ':app', ':grace-plugin-lib', ':grace_annotation'
